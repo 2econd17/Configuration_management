@@ -1,1 +1,1 @@
-dsdsdsd
+python shell_emulator.py testuser testhost fs.zip start.sh
